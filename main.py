@@ -1,5 +1,6 @@
 from recover import *
 
+# Waiting on twitter
 
 def main(update_date, update_time):
     write_data(data, get_recovered(total_url, headers, querystring))
